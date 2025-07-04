@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://cfa153.github.io/my-website/](https://cfa153.github.io/my-website/)
 
-- 📫 How to reach me **kchiku117304215@gmail.com**
+- 📫 How to reach me **chiku117304215@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
